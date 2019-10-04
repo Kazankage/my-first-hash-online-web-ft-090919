@@ -7,4 +7,4 @@ def shipping_manifest
   the_manifest["oil paintings"]
 end
 
-shipping_manifest
+puts shipping_manifest
